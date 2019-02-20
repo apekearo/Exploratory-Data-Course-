@@ -1,6 +1,6 @@
 # Exploratory-Data-Course-
-![Alt text](Exploratory-Data-Course-/IncreasedPlot3.png?raw=true "Title")
-![Alt text](Exploratory-Data-Course-/DecreasedPlot1.png?raw=true "Title")
+![IncreasedPlot](IncreasedPlot3.png?raw=true "Title")
+![DecreasedPlot](DecreasedPlot1.png?raw=true "Title")
 
 Introduction
 
